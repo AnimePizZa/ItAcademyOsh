@@ -1,0 +1,19 @@
+.wrapper{
+	width: 800px;
+	outline: 1px solid: #cccccc;
+	padding: 10px;
+	margin: 0 auto;
+}
+.head{
+	height: 77px;
+	color: #F8AC18;
+}
+p, h4{
+	text-align: center;
+}
+html {
+	font-family: Comic Sans MS
+}
+.newr{
+	border: 2px solid #F8AC18;
+}
